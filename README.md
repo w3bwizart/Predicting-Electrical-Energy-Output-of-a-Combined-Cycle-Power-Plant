@@ -12,6 +12,10 @@ The data set is in the repo and when you run the script with
 - the script will output all the result in the command-line
 
 
+![CMD output](/image.png "CMD output")
+
+
+# Results & Conclusion
 ## 1. Problem Definition and Approach
 
 ### Problem Type:
