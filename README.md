@@ -1,5 +1,15 @@
 
+Origin: @w3bwizart
+
+---
+### References
+Course: Duke University https://www.coursera.org/learn/machine-learning-foundations-for-product-managers
+
+A video with the results can be found at https://youtu.be/liNrFCxHfJ0
+
 # Machine Learning - Predicting Electrical Energy Output of a Combined Cycle Power Plant
+
+This is an assignment of the first course.
 
 This is a prediction script that runs multiple algorithms on a data set.
 The data set is in the repo and when you run the script with 
